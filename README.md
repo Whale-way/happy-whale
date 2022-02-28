@@ -2,7 +2,7 @@
 
 # If there's Whale there's a Way(TBD)
 
-Kaggle Compitition
+Kaggle Competition
 
 
 
