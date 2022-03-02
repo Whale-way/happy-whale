@@ -1,6 +1,6 @@
 # Machine-Learning-RVDM
 
-# If there's Whale there's a Way(TBD)
+# If there's Whale there's a Way
 
 Kaggle Competition
 
