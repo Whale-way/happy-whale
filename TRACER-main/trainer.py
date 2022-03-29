@@ -305,3 +305,5 @@ class Tester():
 #               f'| S_Measure:{test_s_m:.4f}, time: {time.time() - t:.3f}s')
 
 #         return test_loss, test_mae, test_maxf, test_avgf, test_s_m
+
+#%%

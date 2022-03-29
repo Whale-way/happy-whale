@@ -45,3 +45,4 @@ if __name__ == '__main__':
     cfg = getConfig()
     cfg = vars(cfg)
     print(cfg)
+#%%
