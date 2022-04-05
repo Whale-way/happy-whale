@@ -56,3 +56,4 @@ class TRACER(nn.Module):
 
         return torch.sigmoid(final_map), torch.sigmoid(edge), \
                (torch.sigmoid(ds_map0), torch.sigmoid(ds_map1), torch.sigmoid(ds_map2))
+#%%
