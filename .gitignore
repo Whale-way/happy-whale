@@ -1,12 +1,5 @@
 
 *.jpg
-TRACER-main/results/best_model.pth
-TRACER-main/results/.DS_Store
-TRACER-main/results/DUTS/.DS_Store
-TRACER-main/results/DUTS/TE5_0/best_model.pth
-TRACER-main/results/DUTS/TE7_0/.DS_Store
-TRACER-main/results/DUTS/TE7_0/best_model.pth
-TRACER-main/seg_img.zip
 *.png
 *.pth
 *.jpeg
