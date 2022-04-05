@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TRACER-main.iml" filepath="$PROJECT_DIR$/.idea/TRACER-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/happy-whale.iml" filepath="$PROJECT_DIR$/../.idea/happy-whale.iml" />
     </modules>
   </component>
 </project>
