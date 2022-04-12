@@ -1,3 +1,4 @@
 
 *.jpg
 input/sample_segmented_images/seg_train_sample_100/
+.DS_Store
