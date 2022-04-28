@@ -1,3 +1,4 @@
 
 *.jpg
 input/03_segmented/train/sample_segmented_images/seg_train_sample_100/
+input/03_segmented/train/full_set_segmented_images/
