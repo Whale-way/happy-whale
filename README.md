@@ -13,3 +13,9 @@ This project is based on a [Kaggle competition](https://www.kaggle.com/c/happy-w
 - Dinah Rabe [@dinahrabe](https://www.github.com/dinahrabe)
 - Maren Rieker [@marenrieker](https://www.github.com/marenrieker)
 - Victor Möslein [@sailandcode](https://www.github.com/sailandcode)
+
+## How to Access the Code and Data
+
+For segmentaion go to preprocessing, than Tracer-Main, then the segmentation jupyter nootbook. 
+
+Please be aware that you may need to change the path of the images in the code to match your local setup.  
