@@ -16,6 +16,6 @@ This project is based on a [Kaggle competition](https://www.kaggle.com/c/happy-w
 
 ## How to Access the Code and Data
 
-For segmentaion go to preprocessing, than Tracer-Main, then the segmentation jupyter nootbook. 
+To access the segmentation go to preprocessing, than Tracer-Main, there find the segmentation jupyter notebook. 
 
 Please be aware that you may need to change the path of the images in the code to match your local setup.  
