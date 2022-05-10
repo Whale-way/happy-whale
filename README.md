@@ -14,12 +14,12 @@ This project is based on a [Kaggle competition](https://www.kaggle.com/c/happy-w
 - Maren Rieker [@marenrieker](https://www.github.com/marenrieker)
 - Victor Möslein [@sailandcode](https://www.github.com/sailandcode)
 
-## How to Access the Code and Data
-
-To access the segmentation go to preprocessing, than Tracer-Main, there find the segmentation jupyter notebook. 
+## How to Access the Data
 
 There are no images saved on the GitHub as folder size would be too big. You need to download the images from [Kaggle](https://www.kaggle.com/datasets/phalanx/whale2-cropped-dataset). Please be aware that you may need to change the path of the images in the code to match your local setup.  
 
 ## Some Additional Comments
 
 To run the ML_Classification Notebook, you have to run the ML_Preprocessing Notebook first, as this transforms the images into numerical dataframes and saves them in the respective "input/clean" folder.
+
+To access the segmentation go to preprocessing, than Tracer-Main, there you find the segmentation jupyter notebook. 
